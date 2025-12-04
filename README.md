@@ -9,7 +9,8 @@ Fornece a estrutura visual (HTML/CSS) para a criação de novas contas. Sua resp
 
 Painel -->
 É a interface central pós-login. Exibe indicadores-chave de performance (KPIs) e gráficos de distribuição, utilizando dados mock (temporários), enquanto o banco de dados não está totalmente conectado. Serve como hub de navegação primário através do menu lateral.
-<img width="1364" height="643" alt="image" src="https://github.com/user-attachments/assets/7564a407-d69f-401a-abb2-0bd6ad915b1f" />
+<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/a3e85a8d-b687-4043-9818-36e45f8a9ea7" />
+
 
 Cadastro de alunos-->
 Fornece a estrutura de formulário (HTML) para a inserção detalhada de novos alunos (dados pessoais, curso e responsáveis). Sua única função é coletar e validar a entrada de dados antes de submetê-los ao processa_aluno.php.
