@@ -2,6 +2,11 @@ Tela de login -->
 Apresenta o formulário de login. Sua função é coletar as credenciais (e-mail e senha) e submetê-las ao login.php via método POST, além de ser o ponto de redirecionamento em casos de falha de autenticação ou logout.
 <img width="1363" height="645" alt="image" src="https://github.com/user-attachments/assets/790c614f-d643-47ff-985d-3f9a4d035458" />
 
+Tela de Cadastro-->
+Fornece a estrutura visual (HTML/CSS) para a criação de novas contas. Sua responsabilidade é exibir os campos obrigatórios (nome, e-mail, senha), capturar a entrada do usuário e submeter esses dados ao módulo de processamento (cadastro.php), garantindo a integridade e a usabilidade do formulário.
+<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/a709e08d-dbf5-4f27-9f2f-21f75e3fa2a2" />
+
+
 Painel -->
 É a interface central pós-login. Exibe indicadores-chave de performance (KPIs) e gráficos de distribuição, utilizando dados mock (temporários), enquanto o banco de dados não está totalmente conectado. Serve como hub de navegação primário através do menu lateral.
 <img width="1364" height="643" alt="image" src="https://github.com/user-attachments/assets/7564a407-d69f-401a-abb2-0bd6ad915b1f" />
